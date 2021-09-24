@@ -1,6 +1,6 @@
 # **Python Documentation**
 
-## [Notebook 1 - Introduction: Write Your First Python Code](https://github.com/dikoharyadhanto/Python-Documentation/blob/a015bd95a995be1d30d797f5742a4bc678d5e4c9/001_Write_your_first_python_code.ipynb)
+## [Notebook 1 - Introduction: Write Your First Python Code](https://github.com/dikoharyadhanto/Python-Documentation/blob/2417b03a17a7d096f6e26a082cbc472ddffd8bd2/PY0101EN-1-1-Write_your_first_python_code.ipynb)
 
 **Content:**
 
