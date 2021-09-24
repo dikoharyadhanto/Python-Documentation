@@ -13,3 +13,15 @@
 7. Types of objects
 8. Converting from one object type to a different object type
 9. Expression and Variables
+
+## [Notebook 2 - String Operations](https://github.com/dikoharyadhanto/Python-Documentation/blob/45a890facf786a86ed7b9a7300dbdaf92abd22f7/PY0101EN-1-2-Strings.ipynb)
+
+**Content:**
+
+1. What are Strings?
+2. Indexing
+3. Slicing
+4. Stride
+5. Concatenate Strings
+6. Escape Sequences
+7. String Operations
