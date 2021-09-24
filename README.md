@@ -1,8 +1,6 @@
 # **Python Documentation**
 
-## Notebook 1 - Introduction: Write Your First Python Code
-
-[Coursera](https://github.com/dikoharyadhanto/Python-Documentation/blob/2417b03a17a7d096f6e26a082cbc472ddffd8bd2/PY0101EN-1-1-Write_your_first_python_code.ipynb)
+## [Notebook 1A - Introduction: Write Your First Python Code](https://github.com/dikoharyadhanto/Python-Documentation/blob/2417b03a17a7d096f6e26a082cbc472ddffd8bd2/PY0101EN-1-1-Write_your_first_python_code.ipynb)
 
 **Content:**
 
@@ -16,9 +14,7 @@
 8. Converting from one object type to a different object type
 9. Expression and Variables
 
-## Notebook 2 - String Operations
-
-[Coursera](https://github.com/dikoharyadhanto/Python-Documentation/blob/45a890facf786a86ed7b9a7300dbdaf92abd22f7/PY0101EN-1-2-Strings.ipynb)
+## [Notebook 2A - String Operations](https://github.com/dikoharyadhanto/Python-Documentation/blob/45a890facf786a86ed7b9a7300dbdaf92abd22f7/PY0101EN-1-2-Strings.ipynb)
 
 **Content:**
 
@@ -30,8 +26,7 @@
 6. Escape Sequences
 7. String Operations
 
-## Notebook 3 - Tuples in Python
-[Coursera](https://github.com/dikoharyadhanto/Python-Documentation/blob/6b8fb014648071e3e576e78a206828a5e1c47974/PY0101EN-2-1-Tuples.ipynb)
+## [Notebook 3A - Tuples in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/6b8fb014648071e3e576e78a206828a5e1c47974/PY0101EN-2-1-Tuples.ipynb)
 
 **Content:**
 
