@@ -26,7 +26,7 @@
 6. Escape Sequences
 7. String Operations
 
-## [Notebook 3 - [Tuples in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/6b8fb014648071e3e576e78a206828a5e1c47974/PY0101EN-2-1-Tuples.ipynb)
+## [Notebook 3 - Tuples in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/6b8fb014648071e3e576e78a206828a5e1c47974/PY0101EN-2-1-Tuples.ipynb)
 
 **Content:**
 
