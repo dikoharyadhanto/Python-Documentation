@@ -1,5 +1,7 @@
 # **Python Documentation**
 
+![Python Logo!](https://github.com/dikoharyadhanto/Python-Documentation/blob/974247b3085fe09dbd80183a2530a7727aa79c55/python.png")
+
 ## [Notebook 1A - Introduction: Write Your First Python Code](https://github.com/dikoharyadhanto/Python-Documentation/blob/2417b03a17a7d096f6e26a082cbc472ddffd8bd2/PY0101EN-1-1-Write_your_first_python_code.ipynb)
 
 **Content:**
