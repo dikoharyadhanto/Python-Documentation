@@ -139,42 +139,89 @@
 
 ## [Notebook 14A - Basic Python Programming](https://github.com/dikoharyadhanto/Python-Documentation/blob/1e2a193bcab3084a936deda95883c65499b1c913/Basic_Programming_Python.ipynb)
 
-| **No**  | **Content**        | **Sub-Content**             |
-| ------  | -------------      | --------------------------- |
-| 1       | Pengenalan         | Print "*Hello World*"       |
-|         |                    | Comment                     |
-|         |                    | Variables & Literals        |
-|         |                    | Statement                   |
-| 2       | Struktur Program   | Tipe Data                   |
-|         |                    | Special Data Type           |
-|         |                    | Casting Data Type           |
-|         |                    | Data Input                  |
-| 3       | Operasi Matematika | Addition                    |
-|         |                    | Subtraction                 |
-|         |                    | Multiplication              |
-|         |                    | Division                    |
-|         |                    | Exponent                    |
-|         |                    | Modulus                     |
-|         |                    | Floor Division              |
-| 4       | Operasi Komparasi  | Lebih Besar Dari (>)        |
-|         |                    | Kurang Dari (<)             |
-|         |                    | Lebih Dari Sama Dengan (>=) |
-|         |                    | Kurang Dari Sama Dengan (<=)|
-|         |                    | Tidak Sama Dengan (!=)      |
-|         |                    | IS                          |
-|         |                    | IS NOT                      |
-| 5       | Operasi Logika     | NOT                         |
-|         |                    | OR                          |
-|         |                    | AND                         |
-|         |                    | XOR                         |
-| 6       | Operasi Assignment |                             |
-| 7       | List               | Mengakses List              |
-|         |                    | Mengubah Data dalam List    |
-|         |                    | Memotong Urutan List        |
-|         |                    | Menggabungkan Data List     |
-|         |                    | Menggunakan Append Method   |
-|         |                    | Mengubah > 1 Data List      |
-|         |                    | Menggabungkan Dua List      |
-|         |                    | Multidimensional List       |
-|         |                    | Menghitung Panjang List     |
-|         |                    | Manipulasi List             |
+| **No**  | **Content**        | **Sub-Content**              |
+| ------  | -------------      | ---------------------------- |
+| 1       | Pengenalan         | Print "*Hello World*"        |
+|         |                    | Comment                      |
+|         |                    | Variables & Literals         |
+|         |                    | Statement                    |
+| 2       | Struktur Program   | Tipe Data                    |
+|         |                    | Special Data Type            |
+|         |                    | Casting Data Type            |
+|         |                    | Data Input                   |
+| 3       | Operasi Matematika | Addition                     |
+|         |                    | Subtraction                  |
+|         |                    | Multiplication               |
+|         |                    | Division                     |
+|         |                    | Exponent                     |
+|         |                    | Modulus                      |
+|         |                    | Floor Division               |
+| 4       | Operasi Komparasi  | Lebih Besar Dari (>)         |
+|         |                    | Kurang Dari (<)              |
+|         |                    | Lebih Dari Sama Dengan (>=)  |
+|         |                    | Kurang Dari Sama Dengan (<=) |
+|         |                    | Tidak Sama Dengan (!=)       |
+|         |                    | IS                           |
+|         |                    | IS NOT                       |
+| 5       | Operasi Logika     | NOT                          |
+|         |                    | OR                           |
+|         |                    | AND                          |
+|         |                    | XOR                          |
+| 6       | Operasi Assignment |                              |
+| 7       | List               | Mengakses List               |
+|         |                    | Mengubah Data dalam List     |
+|         |                    | Memotong Urutan List         |
+|         |                    | Menggabungkan Data List      |
+|         |                    | Menggunakan Append Method    |
+|         |                    | Mengubah > 1 Data List       |
+|         |                    | Menggabungkan Dua List       |
+|         |                    | Multidimensional List        |
+|         |                    | Menghitung Panjang List      |
+|         |                    | Manipulasi List              |
+| 8       | Stacking & Queueing| Stacking                     |
+|         |                    | Queueing                     |
+| 9       | Tuple              | Manipulasi Tuple             |
+| 10      | Set                | Manipulasi Set               |
+| 11      | Konversi List-Tuple|                              |
+| 12      | Dictionary         | Manipulasi Dictionary        |
+| 13      | Operator Identitas |                              |
+| 14      | Conditioning       |                              |
+| 15      | Looping            | For Loop                     |
+|         |                    | Nested Loop                  |
+|         |                    | Range                        |
+|         |                    | Break                        |
+|         |                    | Else                         |
+|         |                    | Continue                     |
+|         |                    | Pass                         |
+|         |                    | Teknik Looping               |
+|         |                    | Enumerate                    |
+|         |                    | ZIP                          |
+|         |                    | Set                          |
+|         |                    | Dictionary                   |
+|         |                    | While Looping                |
+| 16      | Manipulasi String  | Operator "+"                 |
+|         |                    | Menghitung Panjang String    |
+|         |                    | Mengecek komponen char       |
+|         |                    | Mengulang string             |
+|         |                    | Indexing                     |
+|         |                    | Ordering Indexing            |
+|         |                    | Menghilangkan Spasi Berlebih |
+|         |                    | Mengubah Caps Pada String    |
+|         |                    | Mengubah String Menjadi List |
+|         |                    | Mengubah Kata Tertentu       |
+|         |                    | Menghitung Jumlah Muncul Char|
+|         |                    | .startswith()                |
+|         |                    | .endswith()                  |
+| 17      | Fungsi             | Argumen                      |
+|         |                    | Nilai Default Argument       |
+| 18      | Import Module      |                              |
+| 19      | Package            |                              |
+| 20      | Input Output File  | Membuat File Text            |
+|         |                    | Membaca File Text            |
+|         |                    | Appending Mode               |
+| 21      | Install Package    |                              |
+| 22      | Try & Exception    |                              |
+| 23      | Virtual Environment|                              |
+
+
+
