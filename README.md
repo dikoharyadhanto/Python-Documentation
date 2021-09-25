@@ -136,3 +136,10 @@
 1. Try Except
 2. Try Except Specific
 3. Try Except Else and Finally
+
+## [Notebook 14A - Basic Python Programming](https://github.com/dikoharyadhanto/Python-Documentation/blob/1e2a193bcab3084a936deda95883c65499b1c913/Basic_Programming_Python.ipynb)
+
+| **Content**   | **Sub-Content**  |
+| ------------- | -------------    |
+| Content Cell  | Content Cell     |
+| Content Cell  | Content Cell     |
