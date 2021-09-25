@@ -118,16 +118,7 @@
 3. Additional modes
 4. Copy a File
 
-## [Notebook 11A - Write and Save Files in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-4-2-WriteFile.ipynb)
-
-**Content:**
-
-1. Writing Files
-2. Appending Files
-3. Additional modes
-4. Copy a File
-
-## [Notebook 11A - Working with Different File Types](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb)
+## [Notebook 12A - Working with Different File Types](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb)
 
 **Content:**
 
@@ -138,7 +129,7 @@
 5. Binary File Format
 6. Reading the Image file
 
-## [Notebook 12A - Exception Handling](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/3-1.2ExcecptionHandling.ipynb)
+## [Notebook 13A - Exception Handling](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/3-1.2ExcecptionHandling.ipynb)
 
 **Content:**
 
