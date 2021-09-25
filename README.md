@@ -40,3 +40,55 @@
 4. Sorting
 5. Concatenate Tuples
 6. Nested Tuple
+
+## [Notebook 4A - Lists in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-2-2-Lists.ipynb)
+
+**Content:**
+
+1. List Content
+2. List Operations
+3. Indexing
+4. Copy and Clone List
+
+## [Notebook 5A - Dictionaries in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-2-3-Dictionaries.ipynb)
+
+**Content:**
+
+1. What are Dictionaries?
+2. Keys
+
+## [Notebook 6A - Sets in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-2-4-Sets.ipynb)
+
+**Content:**
+
+1. Set Content
+2. Set Operations
+3. Sets Logic Operations
+
+## [Notebook 6A - Conditions in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-3-1-Conditions.ipynb)
+
+**Content:**
+
+1. Comparison Operators
+2. Branching
+3. Logical operators
+
+## [Notebook 7A - Loops in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-3-2-Loops.ipynb)
+
+**Content:**
+
+1. Range
+2. For Loop
+3. While Loop
+
+## [Notebook 8A - Functions in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/150752f6703530caae48aedfb7895f3ee242bdea/PY0101EN-3-3-Functions.ipynb)
+
+**Content:**
+
+1. What is Function?
+2. Variables & Parameter
+3. Pre-defined functions
+4. if/else Statements and Loops in Functions
+5. Setting default argument values
+6. Scope of a Variable
+7. Collections and Functions
