@@ -140,8 +140,8 @@
 ## [Notebook 14A - Basic Python Programming](https://github.com/dikoharyadhanto/Python-Documentation/blob/1e2a193bcab3084a936deda95883c65499b1c913/Basic_Programming_Python.ipynb)
 
 | **No**  | **Content**   | **Sub-Content**        |
-| ------  | Introduction  | - Print "Hello World   |
-| 1       |               | - Comment              |
-|         |               | - Variables & Literals |
+| ------  | ------------- | ---------------------- |
+| 1       | Introduction  | - Print "Hello World   |
+|         |               | - Comment              |
 |         |               | - Variables & Literals |
 |         |               | - Statement            |
