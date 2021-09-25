@@ -223,5 +223,11 @@
 | 22      | Try & Exception    |                              |
 | 23      | Virtual Environment|                              |
 
+## Python Libraries for Data Science
 
+<p align="center">
+  <img src="https://github.com/dikoharyadhanto/Python-Documentation/blob/da72ce3d3f135e26fc7d74fad184b309a6a8e9da/Python%20Tools.jpg" />
+</p>
 
+## Python Cheatsheet
+[PDF File](https://github.com/dikoharyadhanto/Python-Documentation/blob/da72ce3d3f135e26fc7d74fad184b309a6a8e9da/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
