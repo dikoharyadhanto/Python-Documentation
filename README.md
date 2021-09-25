@@ -1,4 +1,6 @@
-# :-:**PYTHON DOCUMENTATION**:-:
+# <p align="center">
+    // **Python Documentation**
+</p>
 
 <p align="center">
   <img src="https://github.com/dikoharyadhanto/Python-Documentation/blob/974247b3085fe09dbd80183a2530a7727aa79c55/python.png" />
