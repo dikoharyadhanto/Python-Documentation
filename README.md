@@ -93,3 +93,55 @@
 5. Setting default argument values
 6. Scope of a Variable
 7. Collections and Functions
+
+## [Notebook 9A - Classes and Objects in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-3-4-Classes.ipynb)
+
+**Content:**
+
+1. Creating Class
+2. Instances of a Class: Objects and Attributes
+3. Methods
+
+## [Notebook 10A - Reading Files Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-4-1-ReadFile.ipynb)
+
+**Content:**
+
+1. Reading Text Files
+2. A Better Way to Open a File
+
+## [Notebook 11A - Write and Save Files in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-4-2-WriteFile.ipynb)
+
+**Content:**
+
+1. Writing Files
+2. Appending Files
+3. Additional modes
+4. Copy a File
+
+## [Notebook 11A - Write and Save Files in Python](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-4-2-WriteFile.ipynb)
+
+**Content:**
+
+1. Writing Files
+2. Appending Files
+3. Additional modes
+4. Copy a File
+
+## [Notebook 11A - Working with Different File Types](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/PY0101EN-5.4_WorkingWithDifferentFileTypes.ipynb)
+
+**Content:**
+
+1. CSV file Format
+2. JSON file Format
+3. XLSX file format
+4. XML file format
+5. Binary File Format
+6. Reading the Image file
+
+## [Notebook 12A - Exception Handling](https://github.com/dikoharyadhanto/Python-Documentation/blob/aac4b6e0778050171d0edb19a5fd0fad8942cce7/3-1.2ExcecptionHandling.ipynb)
+
+**Content:**
+
+1. Try Except
+2. Try Except Specific
+3. Try Except Else and Finally
