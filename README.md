@@ -139,9 +139,20 @@
 
 ## [Notebook 14A - Basic Python Programming](https://github.com/dikoharyadhanto/Python-Documentation/blob/1e2a193bcab3084a936deda95883c65499b1c913/Basic_Programming_Python.ipynb)
 
-| **No**  | **Content**   | **Sub-Content**        |
-| ------  | ------------- | ---------------------- |
-| 1       | Introduction  | Print "Hello World     |
-|         |               | Comment                |
-|         |               | Variables & Literals   |
-|         |               | Statement              |
+| **No**  | **Content**        | **Sub-Content**        |
+| ------  | -------------      | ---------------------- |
+| 1       | Introduction       | Print "*Hello World*"  |
+|         |                    | Comment                |
+|         |                    | Variables & Literals   |
+|         |                    | Statement              |
+| 2       | Program Structure  | Tipe Data              |
+|         |                    | Special Data Type      |
+|         |                    | Casting Data Type      |
+|         |                    | Data Input             |
+| 3       | Math Operations    | Addition               |
+|         |                    | Subtraction            |
+|         |                    | Multiplication         |
+|         |                    | Division               |
+|         |                    | Exponent               |
+|         |                    | Modulus                |
+|         |                    | Floor Division         |
