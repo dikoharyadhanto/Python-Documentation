@@ -141,7 +141,7 @@
 
 | **No**  | **Content**   | **Sub-Content**        |
 | ------  | ------------- | ---------------------- |
-| 1       | Introduction  | - Print "Hello World   |
-|         |               | - Comment              |
-|         |               | - Variables & Literals |
-|         |               | - Statement            |
+| 1       | Introduction  | Print "Hello World     |
+|         |               | Comment                |
+|         |               | Variables & Literals   |
+|         |               | Statement              |
